@@ -1,0 +1,13 @@
+# --- Core (used by both the notebook and the Streamlit app) ---
+pandas
+numpy
+scikit-learn
+
+# --- Notebook: EDA & plotting (Farm_yield.ipynb) ---
+matplotlib
+seaborn
+jupyter
+
+# --- App: Streamlit demo (farm_yield_app.py) ---
+streamlit
+plotly
